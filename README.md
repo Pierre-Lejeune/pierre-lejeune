@@ -1,3 +1,4 @@
+![Screenshot](pierre-image.png)
 ### Bien le bonjour 👻
 Je suis un développeur et intégrateur web. Je construis et maintient des sites internet en tout genre. 
 J'ai plusieurs cordes à mon arc, je sais notamment développer sur ses différentes technologies : 
