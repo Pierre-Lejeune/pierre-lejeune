@@ -4,10 +4,17 @@ Bonjour 👋 Je m'appelle Pierre
 Je suis développeur Web (et pas que)
 ---------------
 
-Je travaille dans l’informatique et notamment dans la conception de site web depuis maintenant trois ans. J’ai commencé en tant que développeur, mais je me suis vite pris de passion pour toutes les disciplines liées à la création de sites internet (la conception graphique, l’optimisation SEO, l’intégration, …). C’est un plaisir pour moi de participer à la création d’un projet numérique, de le concevoir, de le développer, de le mettre en ligne et de le voir grandir !
+Fort de quatre années d'expérience, je suis passionné par la création de sites internet de haute qualité, conçus sur mesure pour répondre à vos besoins spécifiques. Mon approche se base sur l'utilisation de WordPress, le CMS le plus populaire en ligne, ainsi que son éditeur intégré, Gutenberg. J'ai choisi ces outils pour leur capacité à offrir une expérience utilisateur riche et fluide à mes clients, tout en facilitant la gestion et la mise à jour de leur site.
+
+Ensemble, définissons les objectifs essentiels pour votre stratégie numérique future. 
+Que vous cherchiez à promouvoir votre entreprise, à vendre des produits en ligne ou à partager vos idées, je suis là pour vous aider à concrétiser vos projets en ligne. 
+Votre réussite en ligne est ma priorité, et je suis prêt à travailler en étroite collaboration avec vous pour créer un site web qui non seulement atteint, mais dépasse vos attentes et vos besoins avec une navigation fluide et une expérience en ligne mémorable pour vos visiteurs.
+
+Déterminons ensemble les objectifs à déployer pour votre future stratégie digitale !
+Bonne navigation.
 
 *   ✉️  Vous pouvez me contacter à l'adresse suivante : [contact@pierrelejeune.fr](mailto:contact@pierrelejeune.fr)
-*   🌍  Je réside présentement à Nantes (mais je sais me déplacer au besoin)
+*   🌍  Je réside présentement à Voiron (entre Grenoble et Lyon) (mais je sais me déplacer au besoin)
 
 ### Compétences
 <p align="left">
